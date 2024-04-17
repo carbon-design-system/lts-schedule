@@ -5,7 +5,7 @@ A command line utility that generates the Carbon LTS schedule as a graph. Accept
 ## Example Usage
 
 ```
-node bin/lts.js -s 2018-12-01 -e 2027-06-01 -h output.html -g output.svg -p output.png
+node bin/lts.js -s 2021-07-01 -e 2027-06-01 -h output.html -g output.svg -p output.png
 ```
 
 ## Options
